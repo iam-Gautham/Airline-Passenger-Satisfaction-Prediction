@@ -1,6 +1,3 @@
-# =============================================================================
-# ChargeAI Project Submission: Airline Passenger Satisfaction Prediction
-# =============================================================================
 
 # 1. Import Necessary Libraries
 import pandas as pd
